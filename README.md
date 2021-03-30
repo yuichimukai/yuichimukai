@@ -6,3 +6,4 @@
 
 - 🌱 I’m currently learning React and Go 
 
+<img src="https://grass-graph.moshimo.works/images/yuichimukai.png">
