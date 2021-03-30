@@ -5,5 +5,4 @@
 - Ruby
 
 - 🌱 I’m currently learning React and Go 
-
-<img src="https://grass-graph.moshimo.works/images/yuichimukai.png">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuichimukai)](https://github.com/anuraghazra/github-readme-stats)
