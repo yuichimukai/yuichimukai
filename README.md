@@ -1,7 +1,7 @@
 # Yuichi Mukai
 
 - 📝 Under Graduate student at Meiji University
-- Ruby
+- Ruby　Typescript
 - I’m currently learning Go 
 - Codegym Academy student
 
