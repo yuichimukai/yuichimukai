@@ -1,7 +1,7 @@
 # Yuichi Mukai
 
 - 📝 Under Graduate student at Meiji University
-- Ruby　Typescript
+- Ruby|Typescript
 - I’m currently learning GraphQL 
 - Codegym Academy student
 
