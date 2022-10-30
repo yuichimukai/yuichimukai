@@ -5,5 +5,5 @@
 - I’m currently learning Go & Kubernetes
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuichimukai
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuichimukai&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
