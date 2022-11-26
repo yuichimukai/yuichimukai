@@ -1,7 +1,7 @@
 # Yuichi Mukai
 
 - 📝 Under Graduate student at Meiji University
-- 🌚 Ruby | Node | Typescript
+- 🌚 Ruby | Typescript | AWS
 - I’m currently learning Go & Kubernetes
 
 <p align="left"> 
