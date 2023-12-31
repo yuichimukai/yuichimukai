@@ -1,4 +1,4 @@
-# Yuichi Mukai
+# Yuim
 
 https://portfolio-yuichimukai.vercel.app
 
